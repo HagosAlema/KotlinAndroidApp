@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1a364280839ddd4068126497155382a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hagos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a0d39ad69719f1532551c59d36183b9a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dbeab5bcf1d7198413f15ba8e6d5a727/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/294d757f38fa115b01abbd33b7584227/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dea51a0e9598cd64351279a73f94dbc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bc6b46bd7e06a2682d17c3898e073bcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0beac8c683ed4354de2c40c93daa529f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d8918d2bbe8cc141ec801dfbc7a430dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30e4829cf463a085df7b43b8e4a22189/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e713c7e9fbb2f9e5105b91829108f29b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4860f654f624e096aba29c408c783e97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eadcbd5540754086ab37366e46a05e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0520cb6e0ac68b752bd8a9ef65cb3d6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/02f41f07c7f3f2a2df9f0a774bd75172/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7cf30f5bd3319a7227b962e487099eed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86ea357553f83c8c9933b01fdaa4ad9a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9fcea8146bb9d85cbdbe0f5b893a3ec/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/df9d3cbd7255d48ea103c527f5579df2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ddd5339818e7e9f91150da051dd5ef9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4ae84f60c64ad55ff9012c40f0a36780/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d84d396b06a9b782700ac38d7703f1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1720295b7afc72f939be92dfdc5b12b3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8d4548478df1257afa099628d7bc8218/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b5c12a343d265625fcbb19a917625aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ea73ec6ead64f0e42dfa3727e8a39f43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc0e9347dddfde1177445ce5c781206/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/412cfa4fbd9e5001925b9c37c8b71671/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:3:11-40
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hagos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a0d39ad69719f1532551c59d36183b9a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hagos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a0d39ad69719f1532551c59d36183b9a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86ea357553f83c8c9933b01fdaa4ad9a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86ea357553f83c8c9933b01fdaa4ad9a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9fcea8146bb9d85cbdbe0f5b893a3ec/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9fcea8146bb9d85cbdbe0f5b893a3ec/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86ea357553f83c8c9933b01fdaa4ad9a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.hagos.kotlinapp.MainActivity
+ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1a364280839ddd4068126497155382a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d1a364280839ddd4068126497155382a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hagos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a0d39ad69719f1532551c59d36183b9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hagos/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a0d39ad69719f1532551c59d36183b9a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dbeab5bcf1d7198413f15ba8e6d5a727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/dbeab5bcf1d7198413f15ba8e6d5a727/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/294d757f38fa115b01abbd33b7584227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/294d757f38fa115b01abbd33b7584227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dea51a0e9598cd64351279a73f94dbc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dea51a0e9598cd64351279a73f94dbc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bc6b46bd7e06a2682d17c3898e073bcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bc6b46bd7e06a2682d17c3898e073bcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0beac8c683ed4354de2c40c93daa529f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0beac8c683ed4354de2c40c93daa529f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d8918d2bbe8cc141ec801dfbc7a430dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d8918d2bbe8cc141ec801dfbc7a430dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30e4829cf463a085df7b43b8e4a22189/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30e4829cf463a085df7b43b8e4a22189/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e713c7e9fbb2f9e5105b91829108f29b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e713c7e9fbb2f9e5105b91829108f29b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4860f654f624e096aba29c408c783e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4860f654f624e096aba29c408c783e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eadcbd5540754086ab37366e46a05e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/eadcbd5540754086ab37366e46a05e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0520cb6e0ac68b752bd8a9ef65cb3d6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0520cb6e0ac68b752bd8a9ef65cb3d6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/02f41f07c7f3f2a2df9f0a774bd75172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/02f41f07c7f3f2a2df9f0a774bd75172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7cf30f5bd3319a7227b962e487099eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7cf30f5bd3319a7227b962e487099eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86ea357553f83c8c9933b01fdaa4ad9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/86ea357553f83c8c9933b01fdaa4ad9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9fcea8146bb9d85cbdbe0f5b893a3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e9fcea8146bb9d85cbdbe0f5b893a3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/df9d3cbd7255d48ea103c527f5579df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/df9d3cbd7255d48ea103c527f5579df2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ddd5339818e7e9f91150da051dd5ef9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ddd5339818e7e9f91150da051dd5ef9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4ae84f60c64ad55ff9012c40f0a36780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4ae84f60c64ad55ff9012c40f0a36780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d84d396b06a9b782700ac38d7703f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4d84d396b06a9b782700ac38d7703f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1720295b7afc72f939be92dfdc5b12b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1720295b7afc72f939be92dfdc5b12b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8d4548478df1257afa099628d7bc8218/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8d4548478df1257afa099628d7bc8218/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b5c12a343d265625fcbb19a917625aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/b5c12a343d265625fcbb19a917625aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ea73ec6ead64f0e42dfa3727e8a39f43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ea73ec6ead64f0e42dfa3727e8a39f43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc0e9347dddfde1177445ce5c781206/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hagos/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3fc0e9347dddfde1177445ce5c781206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/412cfa4fbd9e5001925b9c37c8b71671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hagos/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/412cfa4fbd9e5001925b9c37c8b71671/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hagos/KotlinAndroidApp/KotlinApp/app/src/main/AndroidManifest.xml
